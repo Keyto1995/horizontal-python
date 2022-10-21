@@ -23,3 +23,6 @@ $ uvicorn main:app --port 80 --reload
 # prod
 $ uvicorn main:app --host '0.0.0.0' --port 80
 ```
+
+- [x] /ping
+- [x] /clientIP
